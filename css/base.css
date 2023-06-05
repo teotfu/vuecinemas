@@ -51,3 +51,13 @@ body {
     background: var(--bg);
     color: var(--white);
 }
+.head__title {
+    font-family: var(--CR);
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+    color: var(--bgor);
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--bgor);
+    width: max-content;
+}
