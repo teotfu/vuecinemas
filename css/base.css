@@ -46,6 +46,7 @@ body {
     font-weight: 500;
     line-height: 12px;
     transition: 0.3s;
+    cursor: pointer;
 }
 .btn:hover {
     background: var(--bg);
@@ -60,4 +61,8 @@ body {
     padding-bottom: 10px;
     border-bottom: 2px solid var(--bgor);
     width: max-content;
+}
+.icon {
+    font-size: 40px;
+    color: var(--white);
 }

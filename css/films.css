@@ -43,10 +43,6 @@
     align-items: center;
     gap: 12px;
 }
-.films__card-desc-icon {
-    font-size: 40px;
-    color: var(--white);
-}
 .films__card-desc-time {
     border: 1px solid var(--white);
     border-radius: 10px;
