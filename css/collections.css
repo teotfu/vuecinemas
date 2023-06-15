@@ -50,3 +50,8 @@
     line-height: 22px;
     color: var(--white);
 }
+@media screen and (max-width: 1150px) {
+    .collections__wrap {
+        flex-direction: column;;
+    }
+}
